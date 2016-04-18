@@ -1,0 +1,51 @@
+/*Sun is here */
+
+#orb {
+  height: 300px;
+  width: 300px;
+  border-radius: 100%;
+  padding: 20px;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+#sky {
+  height: 100%;
+  width: 100%;
+}
+
+.day {
+  background-color: #37d8e6;
+}
+
+.sun {
+  background-color: #ffdd00;
+  border: 5px solid #f1c40f;
+}
+
+.sun:hover {
+  border: 15px solid #f1c40f;
+}
+
+
+/* moon code is here*/
+
+.moon {
+  background-color: #bdc3c7;
+  border: 10px solid #eaeff2;
+}
+
+.moon:hover {
+  background-color: #bdc3c7;
+  border: 15px solid #eaeff2;
+}
+
+
+
+.night {
+  background-color: #2c3e50;
+}
